@@ -1,0 +1,256 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.katadiv {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid #e6e6e6;
+  padding: 28px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.tekslar {
+  margin-top: 20px;
+  display: flex;
+  gap: 44px;
+  grid-auto-columns: auto auto auto auto auto auto;
+  justify-content: center;
+  cursor: pointer;
+  color: #726e8d;
+}
+
+.mom {
+  display: flex;
+  gap: 16px;
+}
+
+.hero {
+  background-image: url(https://fastly.picsum.photos/id/866/1440/704.jpg?hmac=eDd3BSGRVkKI5vEROdkd8reEKP5X6rWzuooJuUrnKqo);
+  border: 2px solid rgb(255, 255, 255);
+  width: 1440px;
+  height: 704px;
+  margin-top: 20px;
+}
+
+.joj {
+  margin: 730px;
+  margin-top: 130px;
+  width: 630px;
+  height: 444px;
+  background-color: #fff;
+}
+
+.lll {
+  margin-top: 48px;
+  margin-left: 56px;
+  width: 513px;
+  height: 137px;
+}
+
+.kicinayozu {
+  margin-top: 20px;
+  color: #726e8d;
+}
+
+.butoon {
+  margin-top: 157px;
+}
+
+.ortas {
+  margin-top: 80px;
+  margin-left: 529px;
+}
+
+.katanarsa {
+  width: 1440px;
+  height: 476px;
+}
+
+.kartlar {
+  background-color: #f9f9f9;
+  width: 209px;
+  height: 149px;
+  margin-top: 48px;
+  margin-left: 48px;
+}
+
+.kartlar2 {
+  background-color: #f9f9f9;
+  width: 305px;
+  height: 244px;
+  margin-top: 36px;
+}
+
+.kaka {
+  color: #2a254b;
+  margin-top: 12px;
+}
+
+.nmadurrr {
+  display: flex;
+  justify-content: space-around;
+}
+
+.rasmlar {
+  width: 1440px;
+  height: 634px;
+  gap: 20px;
+}
+
+.rasmchalar {
+  width: 305px;
+  height: 462px;
+}
+
+.sa12 {
+  gap: 24px;
+  margin-top: 28px;
+  margin-left: 80px;
+  display: flex;
+}
+
+.widthh {
+  margin-top: 24px;
+}
+
+.ee {
+  margin-top: 8px;
+}
+
+.yanabaton {
+  margin-top: 48px;
+  margin-left: 635px;
+}
+
+.tay {
+  width: 1440px;
+  height: 598px;
+  display: flex;
+}
+
+.mmk {
+  background-color: #2a254b;
+  margin-top: 60px;
+  width: 634px;
+  height: 478px;
+  margin-left: 55px;
+}
+
+.ccc {
+  display: flex;
+  gap: 16px;
+}
+
+.atrov {
+  background-color: #2a254b;
+  color: #fff;
+  width: 495px;
+  height: 99;
+  margin-top: 64px;
+  margin-left: 64px;
+}
+
+.ttt {
+  margin-top: 205px;
+}
+
+.mm {
+  margin-top: 60px;
+  width: 634px;
+  height: 478px;
+  margin-left: 55px;
+}
+
+.images {
+  background-image: url(https://fastly.picsum.photos/id/866/1440/704.jpg?hmac=eDd3BSGRVkKI5vEROdkd8reEKP5X6rWzuooJuUrnKqo);
+}
+
+.imas_meinn2 {
+  width: 1440px;
+  height: 444px;
+}
+
+.mmm {
+  width: 494px;
+  height: 165px;
+  margin-left: 473px;
+  padding-top: 97px;
+}
+
+.ggggg {
+  display: flex;
+  gap: 36px;
+  margin-top: 30px;
+}
+
+.h22 {
+  margin-top: 12px;
+  text-align: center;
+}
+
+.dddd {
+  width: 340px;
+  height: 56px;
+}
+
+.but {
+  background-color: #2a254b;
+  width: 118px;
+  height: 56px;
+}
+
+.butolaruchun {
+  display: flex;
+  margin-top: 40px;
+}
+
+.ohrrr {
+  background-color: #2a254b;
+  width: 1418px;
+  height: 380px;
+  display: flex;
+  color: #fff;
+}
+
+.tugash {
+  width: 130px;
+  height: 250px;
+}
+
+.tugash1 {
+  width: 130px;
+  height: 255px;
+}
+
+.tugash2 {
+  width: 130px;
+  height: 220px;
+}
+
+.d3 {
+  margin-top: 58px;
+  display: flex;
+  gap: 109px;
+  cursor: pointer;
+  margin-left: 82px;
+}
+
+.butolaruchun {
+  margin-left: 109px;
+}
+
+.tugad {
+  margin-top: 59px;
+  margin-left: 109px;
+}
+
+.linklar {
+  background-color: #2a254b;
+  height: 100px;
+}/*# sourceMappingURL=index.css.map */
